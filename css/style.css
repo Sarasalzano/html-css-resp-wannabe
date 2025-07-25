@@ -136,9 +136,6 @@ img {
 
  /* impostazione cellulari */
  @media screen and (max-width:480px) {
-    
-
-
     .container {
     max-width: 80%;
 }
@@ -159,7 +156,7 @@ img {
 }
     
     .steps .col img {
-        margin-top: 3rem;
+    margin-top: 3rem;
     }
 
     .steps h2,
@@ -183,6 +180,4 @@ img {
     width: 100%;
     margin-top: 70px;
     }
-
-
 }
